@@ -1,7 +1,7 @@
 <template >
   <div class="form-todo form-group">
     <p>
-      <span style="color: #ff0000">*</span>
+     
       <span>Seu nome</span>
       <input
         type="text"
