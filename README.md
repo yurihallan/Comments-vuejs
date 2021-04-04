@@ -1,5 +1,10 @@
 # vuejs-cli
+# Comments-vuejs
+Criando um site de comentários para treinar o vuejs
 
+Projeto apenas tem uma tela com dois campos: o nome do usuário e um cmapo de mensagem.
+
+Projeto ainda em desenvolvimento...
 ## Project setup
 ```
 npm install
